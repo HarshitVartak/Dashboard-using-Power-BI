@@ -1,0 +1,38 @@
+Station,Station Code,Line,Distance From Previous of the Line,Time taken From Previous of the Line,Platforms,Tracks,Year of Opening 
+Churchgate,CCG,Western,0 KM,0 min,4,4,1867
+Marine Lines,MEL,Western,1 KM,3 min,4,4,1867
+Charni Road,CYR,Western,1 KM,2 min,4,4,1867
+Grant Road,GTR,Western,1 KM,3 min,4,4,1868
+Mumbai Central,MMCT,Western,1 KM,2 min,9,9,1930
+Mahalakshmi,MX,Western,1 KM,3 min,3,3,1867
+Lower Parel,PL,Western,2 KM,3 min,3,5,1867
+Prabhadevi,PBHD,Western,1 KM,3 min,2,7,1867
+Dadar,D/DR/DDR,Western,1 KM,2 min,15,13,1868
+Matunga Road,MRU,Western,2 KM,2 min,2,5,1867
+Mahim Jn,MM,Western,1 KM,3 min,6,6,1896
+Bandra,B/BA,Western,2 KM,4 min,7,8,1869
+Khar Road,KHAR,Western,2 KM,3 min,6,6,1924
+Santacruz,STC,Western,1 KM,2 min,6,8,1888
+Vile Parle,VLP,Western,2 KM,3 min,6,7,1916
+Andheri,A/AD/ADH,Western,2 KM,5 min,9,9,1928
+Jogeshwari,JOS,Western,2 KM,3 min,6,7,1867
+Ram Mandir,RMAR,Western,2 KM,3 min,4,7,2016
+Goregaon,GMN,Western,3 KM,2 min,7,8,1867
+Malad,MDD,Western,2 KM,4 min,4,5,1867
+Kandivali,KLE,Western,1 KM,3 min,4,4,1907
+Borivali,BO/BVI,Western,3 KM,6 min,10,9,1867
+Dahisar,DIC,Western,2 KM,5 min,4,4,1867
+Mira Road,MIRA,Western,3 KM,5 min,4,4,1990
+Bhayander,BY,Western,3 KM,5 min,6,6,1867
+Naigaon,NIG,Western,6 KM,6 min,3,4,1994
+Vasai Road,BSR/BS,Western,4 KM,5 min,8,9,1864
+Nalla Sopara,NSP,Western,4 KM,5 min,4,4,1867
+Virar,VR,Western,4 KM,6 min,8,9,1867
+Vaitarna,VTN,Western,8 KM,9 min,2,2,2014
+Saphale,SAH,Western,8 KM,8 min,2,3,1894
+Kelve Road,KLV,Western,6 KM,8 min,3,3,1894
+Palghar,PLG,Western,8 KM,15 min,3,5,1893
+Umroli Road,UOI,Western,6 KM,6 min,2,2,2016
+Boisar,BOR,Western,6 KM,6 min,3,5,1992
+Vangaon,VGN,Western,9 KM,9 min,3,4,2012
+Dahanu Road,DRD,Western,12 KM,13 min,5,6,1898
